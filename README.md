@@ -1,4 +1,4 @@
-# Importance Sampling with Scarce Data 
+# Importance Sampling with Scarce Data (Key Contributor: Kiran Kai)
 
 **Preliminary Requirement**
 
@@ -25,3 +25,5 @@
 
     [3]. Lee, I., Lee, U., Ramu, P., Yadav, D., Bayrak, G., & Acar, E. (2022). Small failure probability: principles, 
          progress and perspectives. Structural and Multidisciplinary Optimization, 65(11), 326.
+    [4]. Pannerselvam, K., Yadav, D., & Ramu, P. (2022). Scarce Sample-Based Reliability Estimation and Optimization
+         Using Importance Sampling. Mathematical and Computational Applications, 27(6), 99.
