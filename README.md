@@ -1,4 +1,6 @@
-# Importance Sampling with Scarce Data (Key Contributor: Kiran Kai)
+# Importance Sampling with Scarce Data 
+
+## Key Contributor: Kiran Kai
 
 **Preliminary Requirement**
 
